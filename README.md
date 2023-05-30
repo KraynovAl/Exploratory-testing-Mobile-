@@ -1,2 +1,1 @@
-# Exploratory-testing-Mobile-
-my homework
+Exploratory testing mobile applications (TODO) for my pet-project
